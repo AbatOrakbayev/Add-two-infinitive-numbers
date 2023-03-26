@@ -1,1 +1,1 @@
-# Addition-of-two-infinite-types-of-numbers.
+# Adding two infinite numbers.

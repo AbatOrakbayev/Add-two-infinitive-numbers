@@ -1,1 +1,1 @@
-# Adding two infinite numbers.
+# Add two numbers
